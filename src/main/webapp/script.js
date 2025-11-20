@@ -9,6 +9,6 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
     alert('Thank you for contacting us! We will get back to you soon.');
     document.getElementById('contact-form').reset();
   } else {
-    alert('Please fill out all fields.');
+    alert('Please fill out all the fields.');
   }
 });
